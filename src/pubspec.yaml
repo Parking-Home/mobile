@@ -1,5 +1,5 @@
 name: parking_at_home
-description: Mobila app for Parking@Home project.
+description: Mobile app for Parking@Home project.
 
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
